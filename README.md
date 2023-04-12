@@ -23,7 +23,7 @@
 - PAGINA [Queen Nethu](https://beta.openai.com/playground)
 
 ### `—◉ 💕 PLUGINS 💕`
-- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
+- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/shashikabot/-Queen-Nethu-MD-Bot-Plugins](https://github.com/shashikabot/-Queen-Nethu-MD-Bot-Plugins)
   
 ### `—◉ 💥 ACTIVAR EN KOYEB 💥`
 
