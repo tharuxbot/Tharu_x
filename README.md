@@ -35,4 +35,5 @@
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 -👤🌬️ CLONAR EL REPOSITORIO [Mr.Hansamala](https://github.com/shashikabot/-Queen-Nethu-MD-Bot-/fork)
+
 -👤🌬️ CAMBIAR NÚMERO DEL OWNER [Mr.Kaveen](https://github.com/shashikabot/-Queen-Nethu-MD-Bot-/blob/master/config.js)
