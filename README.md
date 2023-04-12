@@ -27,7 +27,7 @@
   
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD) 
+[![Run on Repl.it](https://repl.it/badge/github/shashikabot/-Queen-Nethu-MD-Bot-)](https://repl.it/github/shashikabot/-Queen-Nethu-MD-Bot-) 
   
 ### `—◉ 🔰 ACTIVAR EN RENDER 🔰`
 
