@@ -14,13 +14,13 @@
  > NO SPAMEAR COMANDOS
 
 ### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
+- AGRADECE CON UNA DONACION VOLUNTARIA [Mr.Kaveen] (https://www.paypal.me/TheShadowBrokers133)
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+- PAGINA USADA PARA LA LETRA [Mr.Hansamala](https://smiley.cool/es/weirdmaker.php)
 
 ### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
-- PAGINA [Aqui](https://beta.openai.com/playground)
+- PAGINA [Queen Nethu](https://beta.openai.com/playground)
 
 ### `—◉ 💕 PLUGINS 💕`
 - TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
