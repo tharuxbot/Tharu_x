@@ -34,5 +34,5 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD) 
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+-👤🌬️ CLONAR EL REPOSITORIO [Mr.Hansamala](https://github.com/shashikabot/-Queen-Nethu-MD-Bot-/fork)
+-👤🌬️ CAMBIAR NÚMERO DEL OWNER [Mr.Kaveen](https://github.com/shashikabot/-Queen-Nethu-MD-Bot-/blob/master/config.js)
