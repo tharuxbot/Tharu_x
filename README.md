@@ -1,4 +1,4 @@
-https://i.ibb.co/8XThtnF/103902036.jpg
+![logo](https://i.ibb.co/h8mHLj8/103902036-removebg-preview.png)
 
 # `🧿 𝚀𝚄𝙴𝙴𝙽 𝙽𝙴𝚃𝙷𝚄 - 𝙱𝚘𝚝 🔮`
 
