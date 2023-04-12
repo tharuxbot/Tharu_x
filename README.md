@@ -1,6 +1,8 @@
 # `🧿 𝚀𝚄𝙴𝙴𝙽 𝙽𝙴𝚃𝙷𝚄 - 𝙱𝚘𝚝 🔮`
 
-### `—◉ 🔗 𝗚𝗜𝗧 OFICIALES 🔗`
+### `—◉ 🔗 𝗤𝗥 𝗰𝗼𝗱𝗲 OFICIALES 🔗`
+
+[![Run on Repl.it](https://replit.com/@MusicParadise/Queen-Nethu-QR?v=1)](https://replit.com/@MusicParadise/Queen-Nethu-QR?v=1) 
 
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
